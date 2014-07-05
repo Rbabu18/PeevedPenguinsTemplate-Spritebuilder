@@ -55,8 +55,8 @@
     [self setupCocos2dWithOptions:cocos2dSetup];
     
     
-    [CCBReader load:@"Penguin"];
-    [CCBReader load:@"Seal"];
+    [CCBReader load:@"Source/CustomObjects/Penguin"];
+    [CCBReader load:@"Source/CustomObjects/Seal"];
 
     
     return YES;
