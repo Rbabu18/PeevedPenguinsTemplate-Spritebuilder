@@ -172,6 +172,10 @@
 		B77F1B2517B978D7009739AE = {
 			isa = PBXGroup;
 			children = (
+				F0D9544C1967A31100D66188 /* Penguin.h */,
+				F0D9544D1967A31100D66188 /* Penguin.m */,
+				F0D954501967A34E00D66188 /* Seal.h */,
+				F0D954511967A34E00D66188 /* Seal.m */,
 				B737893C1807616C0076A88C /* Source */,
 				B77F1B4617B978D7009739AE /* Resources */,
 				9222E2B918734FF800A246C7 /* libs */,
@@ -229,10 +233,6 @@
 		F0D954531967A37100D66188 /* CustomObjects */ = {
 			isa = PBXGroup;
 			children = (
-				F0D9544C1967A31100D66188 /* Penguin.h */,
-				F0D9544D1967A31100D66188 /* Penguin.m */,
-				F0D954501967A34E00D66188 /* Seal.h */,
-				F0D954511967A34E00D66188 /* Seal.m */,
 			);
 			name = CustomObjects;
 			sourceTree = "<group>";
